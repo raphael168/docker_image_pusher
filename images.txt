@@ -1,2 +1,4 @@
 cyclopsui/cyclops-ctrl:v0.8.2
 cyclopsui/cyclops-ui:v0.8.2
+eipwork/kuboard:v3
+eipwork/etcd-host:3.4.16-2
