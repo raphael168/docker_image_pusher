@@ -1,1 +1,4 @@
 labring/kubernetes:v1.29.7
+eipwork/kuboard:v3
+eipwork/kuboard-agent:v3
+eipwork/etcd-host:3.4.16-2 
