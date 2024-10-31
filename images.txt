@@ -1,1 +1,2 @@
-opensearchproject/opensearch:2.15.0
+docker.elastic.co/kibana/kibana:7.17.25
+logstash:8.0.0
