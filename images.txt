@@ -1,1 +1,1 @@
-graylog/graylog:latest
+graylog/graylog:6.1
