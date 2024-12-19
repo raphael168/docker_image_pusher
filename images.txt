@@ -1,4 +1,1 @@
-hashicorp/consul-k8s-control-plane:1.4.0
-hashicorp/consul-dataplane:1.4.0
-hashicorp/consul-telemetry-collector:0.0.2
-hashicorp/consul:1.18.0
+registry.k8s.io/kube-state-metrics/kube-state-metrics:v2.14.0
