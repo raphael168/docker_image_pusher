@@ -1,1 +1,2 @@
-portainer/portainer-ce:latest
+docker.elastic.co/elasticsearch/elasticsearch:7.17.5
+docker.elastic.co/kibana/kibana:7.17.5
