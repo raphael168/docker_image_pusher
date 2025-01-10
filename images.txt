@@ -1,2 +1,2 @@
 
-docker.elastic.com/beats/filebeat:7.17.5
+docker.elastic.co/beats/filebeat:7.17.5
