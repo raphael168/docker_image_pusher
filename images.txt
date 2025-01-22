@@ -1,2 +1,2 @@
-
-docker.elastic.co/beats/filebeat:7.17.5
+rancher/local-path-provisioner:v0.0.30
+busybox
